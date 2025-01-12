@@ -53,3 +53,11 @@ git status
 
 ## Cambiar a Nano
 
+## Areas posibles en las que pueden estar los archivos
+
+*Workig Directory (Directorio de Trabajo) donde van agragando, borrando el archivo del proyecto durante
+ desarrollo
+
+*Staging Area (Area de Control de Cambios) Se agregan los archivos para darle seguimiento y posteriormente sacarles una foto (Commit)
+
+*Local Repo (Area de validacion de cambios, donde se registraron las modificaciones realizadas) Donde van a estar todas las fotos (commit) que vaya sacando.
