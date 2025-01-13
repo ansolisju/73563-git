@@ -19,3 +19,5 @@ git commir -m "Escribo un mensaje descriptivo sobre lo que se hizo"
 git restore . #Recupero todo. Me traigo todo lo que esta en el repo local al working directory. Si tengo archivos modificados pierdo las modificaciones.
 git restore <archivo> <archivo1>
 git restore --staged <archivo> # Me recupera los cambios marcados en el staging area al working directory.
+
+![Alt text](git.png)
