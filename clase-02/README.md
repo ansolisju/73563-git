@@ -21,3 +21,17 @@ git restore <archivo> <archivo1>
 git restore --staged <archivo> # Me recupera los cambios marcados en el staging area al working directory.
 
 ![Alt text](git.png)
+
+#Subiendo repo local al remoto
+
+```sh
+git remote add <alias> <url-repositorio-git>
+git remote add origin https://github.com/ansolisju/73563-git.git
+````
+
+# Borrar la irl del remoto en el repo local
+
+```sh
+git remote remove <alias>
+git remote remove <origin>
+```
