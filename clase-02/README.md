@@ -35,3 +35,12 @@ git remote add origin https://github.com/ansolisju/73563-git.git
 git remote remove <alias>
 git remote remove <origin>
 ```
+## subir los commit al remoto
+
+```sh
+git push -u origin main #Se van a trackear las ramas origin/main con main (la primera vez)
+
+## sincronizar el repositorio local con el remoto 
+```sh
+git push
+```
